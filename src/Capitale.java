@@ -5,6 +5,8 @@ public class Capitale {
 	private int nbHabitants;
 	private int superficie;
 	
+	//Coucou c'est moi Loan
+	
 	//CONSTRCUTEUR PAR DEFAUT 
 	public Capitale(){
 		
