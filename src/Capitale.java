@@ -51,7 +51,7 @@ public class Capitale {
 			capitale+="Le nom de la capitale est " +nom;
 		}
 		if(nbHabitants!=0){
-			capitale+="Le nombre d'habitant est de "+nbHabitants;
+			capitale+="Le nombre d'habitant est de le "+nbHabitants;
 		
 		}
 		if(superficie!=0){
